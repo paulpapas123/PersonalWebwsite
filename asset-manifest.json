@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/PersonalWebwsite/static/css/main.fc8eae9d.chunk.css",
-    "main.js": "/PersonalWebwsite/static/js/main.46ab06e2.chunk.js",
-    "main.js.map": "/PersonalWebwsite/static/js/main.46ab06e2.chunk.js.map",
+    "main.css": "/PersonalWebwsite/static/css/main.79ee1397.chunk.css",
+    "main.js": "/PersonalWebwsite/static/js/main.06fbc260.chunk.js",
+    "main.js.map": "/PersonalWebwsite/static/js/main.06fbc260.chunk.js.map",
     "runtime-main.js": "/PersonalWebwsite/static/js/runtime-main.83e63393.js",
     "runtime-main.js.map": "/PersonalWebwsite/static/js/runtime-main.83e63393.js.map",
     "static/js/2.46b62a7e.chunk.js": "/PersonalWebwsite/static/js/2.46b62a7e.chunk.js",
@@ -10,20 +10,19 @@
     "static/js/3.b7024bae.chunk.js": "/PersonalWebwsite/static/js/3.b7024bae.chunk.js",
     "static/js/3.b7024bae.chunk.js.map": "/PersonalWebwsite/static/js/3.b7024bae.chunk.js.map",
     "index.html": "/PersonalWebwsite/index.html",
-    "static/css/main.fc8eae9d.chunk.css.map": "/PersonalWebwsite/static/css/main.fc8eae9d.chunk.css.map",
+    "static/css/main.79ee1397.chunk.css.map": "/PersonalWebwsite/static/css/main.79ee1397.chunk.css.map",
     "static/js/2.46b62a7e.chunk.js.LICENSE.txt": "/PersonalWebwsite/static/js/2.46b62a7e.chunk.js.LICENSE.txt",
+    "static/media/Accenture_Hackathon.cabef7f2.jpg": "/PersonalWebwsite/static/media/Accenture_Hackathon.cabef7f2.jpg",
     "static/media/ComputerLogo.0e7aec39.png": "/PersonalWebwsite/static/media/ComputerLogo.0e7aec39.png",
+    "static/media/MonashCrest.a0eedc8f.jpeg": "/PersonalWebwsite/static/media/MonashCrest.a0eedc8f.jpeg",
     "static/media/App.scss": "/PersonalWebwsite/static/media/nat-7.167e44e4.jpg",
     "static/media/logo-white.6c89a3f0.png": "/PersonalWebwsite/static/media/logo-white.6c89a3f0.png",
-    "static/media/logo.6ce24c58.svg": "/PersonalWebwsite/static/media/logo.6ce24c58.svg",
-    "static/media/nat-1-large.a1c1cbdb.jpg": "/PersonalWebwsite/static/media/nat-1-large.a1c1cbdb.jpg",
-    "static/media/nat-2-large.cbc0cd9f.jpg": "/PersonalWebwsite/static/media/nat-2-large.cbc0cd9f.jpg",
-    "static/media/nat-3-large.da53b7a0.jpg": "/PersonalWebwsite/static/media/nat-3-large.da53b7a0.jpg"
+    "static/media/logo.6ce24c58.svg": "/PersonalWebwsite/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.83e63393.js",
     "static/js/2.46b62a7e.chunk.js",
-    "static/css/main.fc8eae9d.chunk.css",
-    "static/js/main.46ab06e2.chunk.js"
+    "static/css/main.79ee1397.chunk.css",
+    "static/js/main.06fbc260.chunk.js"
   ]
 }
